@@ -1,3 +1,8 @@
+# Projects and Contributions
+
+**This repository contains all the details of the projects I have done so far**<br>
+**Includes Code Link and Live Demo**
+
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
 | Stats Preview Card Component | [Link](https://github.com/AmitSahoo45/Stats-preview-card-component) | [Link](https://stats-preview-card-component-aks.netlify.app/) | HTML, CSS, JavaScript |
