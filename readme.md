@@ -27,8 +27,18 @@
 | Spotify Clone | [Link](https://github.com/AmitSahoo45/Spotify-Clone) | [Link](https://aksabar-spotify-clone.netlify.app/) | ReactJS, Material UI, React Redux |
 | Simple React Website | [Link](https://github.com/AmitSahoo45/GPT3-OpenAI/tree/master) | [Link](https://openai-gpt3.netlify.app/) | React JS, CSS |
 
+**3. All Full Stack Projects**
 
-**3. All Projects**
+| Project Name | Project Code | Live Demo | Tech Stack Used |
+| ------------- | ------------- | ------------- | ------------- |
+| Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar.herokuapp.com/) | M.E.R.N, Chakra UI |
+| CryptoCurrency App | [Link](https://github.com/AmitSahoo45/cryptocurrency-app) | [Link](https://cryptohub-i.netlify.app/) | React, Material UI, Firebase |
+| YouTube To MP3 | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/12-ytToMP3) | [Link]() | HTML, CSS, JavaScript, NodeJS |
+| Premier League API | [Link](https://github.com/AmitSahoo45/Premier-League-API) | [Link](https://football-api-database.herokuapp.com/) | JavaScript, NodeJS |
+| Task Manager using NodeJS | [Link](https://github.com/AmitSahoo45/Task-Manager) | [Link]() | HTML, CSS, JavaScript, NodeJS |
+| Store API | [Link](https://github.com/AmitSahoo45/store-api) | [Link]() | HTML, CSS, JavaScript, NodeJS |
+
+**4. All Projects**
 
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
