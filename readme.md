@@ -121,10 +121,3 @@
 | GitHub Profile Viewer | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/09%20-%20Github%20Profile) | [Link](https://github-profile-viewer-g.netlify.app/) | HTML, CSS, JavaScript |
 | YouTube To MP3 | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/12-ytToMP3) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Testimonial Slider | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/10%20-%20Testimonial%20Box%20Switcher) | [Link](https://testimonial-slider-js.netlify.app/) | HTML, CSS, JavaScript |
-
-| Messar - Chat Application | [Link]() | [Link]() | HTML, CSS, JavaScript |
-| Messar - Chat Application | [Link]() | [Link]() | HTML, CSS, JavaScript |
-| Messar - Chat Application | [Link]() | [Link]() | HTML, CSS, JavaScript |
-| Messar - Chat Application | [Link]() | [Link]() | HTML, CSS, JavaScript |
-| Messar - Chat Application | [Link]() | [Link]() | HTML, CSS, JavaScript |
-| Messar - Chat Application | [Link]() | [Link]() | HTML, CSS, JavaScript |
