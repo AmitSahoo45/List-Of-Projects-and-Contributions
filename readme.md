@@ -3,7 +3,14 @@
 **This repository contains all the details of the projects I have done so far**<br>
 **Includes Code Link and Live Demo**
 
-**1. All Top Projects**
+**Jump To**
+- [All Top Projects](#All-Top-Projects)
+- [All ReactJS Projects](#All-ReactJS-Projects)
+- [All Full Stack Projects](#All-Full-Stack-Projects)
+- [All Frontend Applicatios](#All-Frontend-Applicatios)
+- [All Projects](#All-Projects)
+
+## All-Top-Projects
 
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
@@ -16,7 +23,7 @@
 | NORA - Jewelry Shop Website | [Link](https://github.com/AmitSahoo45/NORA) | [Link](https://nora-india.netlify.app/) | HTML, CSS, JavaScript |
 
 
-**2. All React.js Projects**
+## All-ReactJS-Projects
 
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
@@ -27,7 +34,7 @@
 | Spotify Clone | [Link](https://github.com/AmitSahoo45/Spotify-Clone) | [Link](https://aksabar-spotify-clone.netlify.app/) | ReactJS, Material UI, React Redux |
 | Simple React Website | [Link](https://github.com/AmitSahoo45/GPT3-OpenAI/tree/master) | [Link](https://openai-gpt3.netlify.app/) | React JS, CSS |
 
-**3. All Full Stack Projects**
+## All-Full-Stack-Projects
 
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
@@ -38,7 +45,7 @@
 | Task Manager using NodeJS | [Link](https://github.com/AmitSahoo45/Task-Manager) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Store API | [Link](https://github.com/AmitSahoo45/store-api) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 
-**4. All Frontend Applicatios**
+## All-Frontend-Applicatios
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
 | Stats Preview Card Component | [Link](https://github.com/AmitSahoo45/Stats-preview-card-component) | [Link](https://stats-preview-card-component-aks.netlify.app/) | HTML, CSS, JavaScript |
@@ -77,7 +84,7 @@
 | Testimonial Slider | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/10%20-%20Testimonial%20Box%20Switcher) | [Link](https://testimonial-slider-js.netlify.app/) | HTML, CSS, JavaScript |
 
 
-**5. All Projects**
+## All-Projects
 
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
