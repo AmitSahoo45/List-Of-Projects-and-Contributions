@@ -69,6 +69,7 @@
 | Article preview component | [Link](https://github.com/AmitSahoo45/Article-Preveiw-Component) | [Link](https://article-preview-component-page.netlify.app/) | HTML, CSS, JavaScript |
 | Calc+ MultiUtility Calculator App | [Link](https://github.com/AmitSahoo45/Calc-MultiUtility-Calculator-App) | [Link](https://calc-multiutility.netlify.app/) | HTML, CSS, JavaScript, Bootstrap |
 | Fode - Food Ordering App | [Link](https://github.com/AmitSahoo45/Fode) | [Link](https://fode-india.netlify.app/) | HTML, CSS, JavaScript, Bootstrap |
+| FWB Hackathon Project - AUUM | [Link](https://github.com/AmitSahoo45/FWB-AUUM-Project) | [Link](https://auum-amit-sahoo.netlify.app/) | HTML, CSS & JavaScript |
 | XNoteBook - Notes Making App | [Link](https://github.com/AmitSahoo45/XNoteBook-Notes-App) | [Link](https://xnotebook.netlify.app/) | HTML, CSS, JavaScript |
 | Florals - Flower Shopping Website | [Link](https://github.com/AmitSahoo45/Florals-Flower-Shop) | [Link](https://aksabar-florals.netlify.app/) | HTML, CSS, JavaScript |
 | NORA - Jewellery Website | [Link](https://github.com/AmitSahoo45/NORA) | [Link](https://nora-india.netlify.app/) | HTML, CSS, JavaScript |
