@@ -33,6 +33,7 @@
 | Food Reciepe App | [Link](https://github.com/AmitSahoo45/food-recipe-app) | [Link](https://haq-se-foodie.netlify.app/) | React, styled-components |
 | Spotify Clone | [Link](https://github.com/AmitSahoo45/Spotify-Clone) | [Link](https://aksabar-spotify-clone.netlify.app/) | ReactJS, Material UI, React Redux |
 | Simple React Website | [Link](https://github.com/AmitSahoo45/GPT3-OpenAI/tree/master) | [Link](https://openai-gpt3.netlify.app/) | React JS, CSS |
+| Simple Calculator | [Link](https://github.com/AmitSahoo45/react-calculator-app) | [Link](http://react-calculator-app-beta.vercel.app/) | React JS, SCSS, CSS, HTML |
 
 ## All-Full-Stack-Projects
 
@@ -83,6 +84,7 @@
 | GitHub Profile Viewer | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/09%20-%20Github%20Profile) | [Link](https://github-profile-viewer-g.netlify.app/) | HTML, CSS, JavaScript |
 | YouTube To MP3 | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/12-ytToMP3) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Testimonial Slider | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/10%20-%20Testimonial%20Box%20Switcher) | [Link](https://testimonial-slider-js.netlify.app/) | HTML, CSS, JavaScript |
+| Simple Calculator | [Link](https://github.com/AmitSahoo45/react-calculator-app) | [Link](http://react-calculator-app-beta.vercel.app/) | React JS, SCSS, CSS, HTML |
 
 
 ## All-Projects
@@ -129,3 +131,4 @@
 | GitHub Profile Viewer | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/09%20-%20Github%20Profile) | [Link](https://github-profile-viewer-g.netlify.app/) | HTML, CSS, JavaScript |
 | YouTube To MP3 | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/12-ytToMP3) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Testimonial Slider | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/10%20-%20Testimonial%20Box%20Switcher) | [Link](https://testimonial-slider-js.netlify.app/) | HTML, CSS, JavaScript |
+| Simple Calculator | [Link](https://github.com/AmitSahoo45/react-calculator-app) | [Link](http://react-calculator-app-beta.vercel.app/) | React JS, SCSS, CSS, HTML |
