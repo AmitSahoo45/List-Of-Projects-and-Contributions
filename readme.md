@@ -85,6 +85,7 @@
 | YouTube To MP3 | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/12-ytToMP3) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Testimonial Slider | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/10%20-%20Testimonial%20Box%20Switcher) | [Link](https://testimonial-slider-js.netlify.app/) | HTML, CSS, JavaScript |
 | Simple Calculator | [Link](https://github.com/AmitSahoo45/react-calculator-app) | [Link](http://react-calculator-app-beta.vercel.app/) | React JS, SCSS, CSS, HTML |
+| Carousel - Swiper JS | [Link](https://github.com/AmitSahoo45/Carousel-Swiper-JS) | [Link](https://swiper-js-carousel.netlify.app/) | HTML, CSS, JS |
 
 
 ## All-Projects
@@ -132,3 +133,4 @@
 | YouTube To MP3 | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/12-ytToMP3) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Testimonial Slider | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/10%20-%20Testimonial%20Box%20Switcher) | [Link](https://testimonial-slider-js.netlify.app/) | HTML, CSS, JavaScript |
 | Simple Calculator | [Link](https://github.com/AmitSahoo45/react-calculator-app) | [Link](http://react-calculator-app-beta.vercel.app/) | React JS, SCSS, CSS, HTML |
+| Carousel - Swiper JS | [Link](https://github.com/AmitSahoo45/Carousel-Swiper-JS) | [Link](https://swiper-js-carousel.netlify.app/) | HTML, CSS, JS |
