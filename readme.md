@@ -14,6 +14,7 @@
 
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
+| VibIn - A Social Media App | [Link](https://github.com/AmitSahoo45/vibin-full-stack) | [Link](https://vib-in.netlify.app/) | M.E.R.N, Chakra UI |
 | Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar.herokuapp.com/) | M.E.R.N, Chakra UI |
 | CryptoCurrency App | [Link](https://github.com/AmitSahoo45/cryptocurrency-app) | [Link](https://cryptohub-i.netlify.app/) | React, Material UI, Firebase |
 | Expense Tracker App | [Link](https://github.com/AmitSahoo45/expense-tracker-app) | [Link](https://track-my-expense-online.netlify.app/) | React, Material UI, Speechly AI |
