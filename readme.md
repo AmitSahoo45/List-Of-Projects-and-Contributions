@@ -15,7 +15,7 @@
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
 | VibIn - A Social Media App | [Link](https://github.com/AmitSahoo45/vibin-full-stack) | [Link](https://vib-in.netlify.app/) | M.E.R.N, Material UI |
-| Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar.herokuapp.com/) | M.E.R.N, Chakra UI |
+| Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar-app.onrender.com/) | M.E.R.N, Chakra UI |
 | CryptoCurrency App | [Link](https://github.com/AmitSahoo45/cryptocurrency-app) | [Link](https://cryptohub-i.netlify.app/) | React, Material UI, Firebase |
 | Expense Tracker App | [Link](https://github.com/AmitSahoo45/expense-tracker-app) | [Link](https://track-my-expense-online.netlify.app/) | React, Material UI, Speechly AI |
 | Spotify Clone | [Link](https://github.com/AmitSahoo45/Spotify-Clone) | [Link](https://aksabar-spotify-clone.netlify.app/) | ReactJS, Material UI, React Redux |
@@ -29,7 +29,7 @@
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
 | VibIn - A Social Media App | [Link](https://github.com/AmitSahoo45/vibin-full-stack) | [Link](https://vib-in.netlify.app/) | M.E.R.N, Material UI |
-| Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar.herokuapp.com/) | M.E.R.N, Chakra UI |
+| Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar-app.onrender.com/) | M.E.R.N, Chakra UI |
 | Expense Tracker App | [Link](https://github.com/AmitSahoo45/expense-tracker-app) | [Link](https://track-my-expense-online.netlify.app/) | React, Material UI, Speechly AI |
 | CryptoCurrency App | [Link](https://github.com/AmitSahoo45/cryptocurrency-app) | [Link](https://cryptohub-i.netlify.app/) | React, Material UI, Firebase |
 | Food Reciepe App | [Link](https://github.com/AmitSahoo45/food-recipe-app) | [Link](https://haq-se-foodie.netlify.app/) | React, styled-components |
@@ -41,7 +41,8 @@
 
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
-| Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar.herokuapp.com/) | M.E.R.N, Chakra UI |
+| VibIn - A Social Media App | [Link](https://github.com/AmitSahoo45/vibin-full-stack) | [Link](https://vib-in.netlify.app/) | M.E.R.N, Material UI |
+| Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link]https://messar-app.onrender.com/) | M.E.R.N, Chakra UI |
 | CryptoCurrency App | [Link](https://github.com/AmitSahoo45/cryptocurrency-app) | [Link](https://cryptohub-i.netlify.app/) | React, Material UI, Firebase |
 | YouTube To MP3 | [Link](https://github.com/AmitSahoo45/Micro-Projects-and-Templates/tree/master/12-ytToMP3) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Premier League API | [Link](https://github.com/AmitSahoo45/Premier-League-API) | [Link](https://football-api-database.herokuapp.com/) | JavaScript, NodeJS |
