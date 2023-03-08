@@ -7,7 +7,7 @@
 - [All Top Projects](#All-Top-Projects)
 - [All ReactJS Projects](#All-ReactJS-Projects)
 - [All Full Stack Projects](#All-Full-Stack-Projects)
-- [All Frontend Applicatios](#All-Frontend-Applications)
+- [All Frontend Applications](#All-Frontend-Applications)
 - [All Projects](#All-Projects)
 
 ## All-Top-Projects
