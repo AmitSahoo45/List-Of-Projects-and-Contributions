@@ -7,7 +7,7 @@
 - [All Top Projects](#All-Top-Projects)
 - [All ReactJS Projects](#All-ReactJS-Projects)
 - [All Full Stack Projects](#All-Full-Stack-Projects)
-- [All Frontend Applicatios](#All-Frontend-Applicatios)
+- [All Frontend Applicatios](#All-Frontend-Applications)
 - [All Projects](#All-Projects)
 
 ## All-Top-Projects
@@ -47,16 +47,18 @@
 | ------------- | ------------- | ------------- | ------------- |
 | VibIn - A Social Media App | [Link](https://github.com/AmitSahoo45/vibin-full-stack) | [Link](https://vib-in.netlify.app/) | M.E.R.N, Material UI |
 | Messar - Chat Application | [Link](https://github.com/AmitSahoo45/messar) | [Link](https://messar-app.onrender.com/) | M.E.R.N, Chakra UI |
+| Chillmate - Productivity Tool(Under Development) | [Link](https://github.com/AmitSahoo45/Chillmate) | [Link](https://chillmate.vercel.app/) | Next.js, Firebase, Tailwind CSS |
 | CryptoCurrency App | [Link](https://github.com/AmitSahoo45/cryptocurrency-app) | [Link](https://cryptohub-i.netlify.app/) | React, Material UI, Firebase |
 | Youtube To Mp3 Converter | [Link](https://github.com/AmitSahoo45/Youtube-To-MP3) | [Link](https://youtube-to-mp3-converter.onrender.com/) | HTML/CSS, JavaScript, Node.js |
 | Premier League API | [Link](https://github.com/AmitSahoo45/Premier-League-API) | [Link](https://football-api-database.herokuapp.com/) | JavaScript, NodeJS |
 | Task Manager using NodeJS | [Link](https://github.com/AmitSahoo45/Task-Manager) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Store API | [Link](https://github.com/AmitSahoo45/store-api) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 
-## All-Frontend-Applicatios
+## All-Frontend-Applications
 | Project Name | Project Code | Live Demo | Tech Stack Used |
 | ------------- | ------------- | ------------- | ------------- |
 | Stats Preview Card Component | [Link](https://github.com/AmitSahoo45/Stats-preview-card-component) | [Link](https://stats-preview-card-component-aks.netlify.app/) | HTML, CSS, JavaScript |
+| Chillmate - Productivity Tool(Under Development) | [Link](https://github.com/AmitSahoo45/Chillmate) | [Link](https://chillmate.vercel.app/) | Next.js, Firebase, Tailwind CSS |
 | 3-column preview card component | [Link](https://github.com/AmitSahoo45/3-column-preview-card-component) | [Link](https://column-preview-card-component.netlify.app/) | HTML, CSS, JavaScript |
 | Order summary card | [Link](https://github.com/AmitSahoo45/Order-Summary-Card) | [Link](https://responsive-order-summary-card.netlify.app/) | HTML, CSS, JavaScript |
 | Profile summary card | [Link](https://github.com/AmitSahoo45/Profile-card-component) | [Link](https://responsive-profile-card-page.netlify.app/) | HTML, CSS, JavaScript |
