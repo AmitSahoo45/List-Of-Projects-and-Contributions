@@ -50,7 +50,7 @@
 | Chillmate - Productivity Tool(Under Development) | [Link](https://github.com/AmitSahoo45/Chillmate) | [Link](https://chillmate.vercel.app/) | Next.js, Firebase, Tailwind CSS |
 | CryptoCurrency App | [Link](https://github.com/AmitSahoo45/cryptocurrency-app) | [Link](https://cryptohub-i.netlify.app/) | React, Material UI, Firebase |
 | Youtube To Mp3 Converter | [Link](https://github.com/AmitSahoo45/Youtube-To-MP3) | [Link](https://youtube-to-mp3-converter.onrender.com/) | HTML/CSS, JavaScript, Node.js |
-| Food Ordering App - Backend | https://github.com/AmitSahoo45/Food-Ordering-Backend | https://github.com/AmitSahoo45/Food-Ordering-Backend | Node.js, Express.js & Mongo DB |
+| Food Ordering App - Backend | [Link](https://github.com/AmitSahoo45/Food-Ordering-Backend) | [Link](https://github.com/AmitSahoo45/Food-Ordering-Backend) | Node.js, Express.js & Mongo DB |
 | Premier League API | [Link](https://github.com/AmitSahoo45/Premier-League-API) | [Link](https://football-api-database.herokuapp.com/) | JavaScript, NodeJS |
 | Task Manager using NodeJS | [Link](https://github.com/AmitSahoo45/Task-Manager) | [Link]() | HTML, CSS, JavaScript, NodeJS |
 | Store API | [Link](https://github.com/AmitSahoo45/store-api) | [Link]() | HTML, CSS, JavaScript, NodeJS |
